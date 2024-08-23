@@ -2,7 +2,7 @@
 - 👀 I’m interested in ...coding and graphic designing
 - 🌱 I’m currently learning ...C++
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...srikannac@gmail.cim
+- 📫 How to reach me ...srikannac@gmail.com
 
 <!---
 Challa-Srikanna/Challa-Srikanna is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
