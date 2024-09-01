@@ -1,4 +1,4 @@
-<h1 align="center">Hi there 👋, I'm Srikanna Challa</h1>
+<h1 align="center">Hi there 👋, I'm Challa Srikanna</h1>
 
 <p align="center">
   Welcome to my GitHub profile! I'm a passionate software developer and market research analyst with a strong background in Computer Science. I love working on innovative projects and am always excited to learn new technologies.
